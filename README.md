@@ -62,7 +62,7 @@ java Main numbers.txt
 
 Проект настроен для работы с GitHub Actions. Тесты запускаются автоматически при каждом новом коммите. Текущий статус сборки отображается в бейдже в README.md файле.
 
-![Build Status](https://github.com/TZ2/workflows/CI/badge.svg)
+![Java CI with Maven](https://github.com/jeffenssy/TZ2/actions/workflows/main.yml/badge.svg)
 
 ## Интеграция с мессенджером
 
